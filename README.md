@@ -1,6 +1,6 @@
 ### 今天学了MarkDown
-MarkDown是一种超文本语言，今天我第一次学习了它
-`Hello MarkDown!`
+MarkDown是一种超文本语言，今天我第一次学习了它<br/>
+`Hello MarkDown!`<br/>
 接下来我还会学习：
 
 1. Git的基础命令
